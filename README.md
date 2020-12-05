@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https:/precios.paternit.com/)
+[Live Demo Link](http://precios.paternit.com/)
 
 
 👤 **Author**
