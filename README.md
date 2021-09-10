@@ -1,6 +1,6 @@
 # Price list for Paternit Company
 
-> Project based on bootstrap, to showcase prices and some info of the products of the company Industria Paternit from Cali, Colombia.
+> Project based on bootstrap and javascript, to showcase prices and some info of the products of the company Industria Paternit from Cali, Colombia.
 
 ![screenshot](./screenshot-preciospaternit.png)
 
